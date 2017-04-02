@@ -1,0 +1,6 @@
+c:\users\nathalia\documents\visual studio 2017\Projects\ArquivoExercicio\ArquivoExercicio\bin\Debug\ArquivoExercicio.exe.config
+c:\users\nathalia\documents\visual studio 2017\Projects\ArquivoExercicio\ArquivoExercicio\bin\Debug\ArquivoExercicio.exe
+c:\users\nathalia\documents\visual studio 2017\Projects\ArquivoExercicio\ArquivoExercicio\bin\Debug\ArquivoExercicio.pdb
+c:\users\nathalia\documents\visual studio 2017\Projects\ArquivoExercicio\ArquivoExercicio\obj\Debug\ArquivoExercicio.csprojResolveAssemblyReference.cache
+c:\users\nathalia\documents\visual studio 2017\Projects\ArquivoExercicio\ArquivoExercicio\obj\Debug\ArquivoExercicio.exe
+c:\users\nathalia\documents\visual studio 2017\Projects\ArquivoExercicio\ArquivoExercicio\obj\Debug\ArquivoExercicio.pdb
